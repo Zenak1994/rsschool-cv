@@ -15,7 +15,8 @@ I an 27 year old. I am an Air Traffic Controller. I have a good job but I want t
 * Communication 
 
 ## Education 
-Belarussion State Aviation Academy 2012-2017
+* Belarussion State Aviation Academy 2012-2017
+* RS School 2022
 
 ## Languages
 * Russian - Native
@@ -23,3 +24,4 @@ Belarussion State Aviation Academy 2012-2017
 
 ## Certificates 
 Proficiency English Language Test for Aviation(Pelta) (11/2020 - Present)
+
